@@ -1,4 +1,4 @@
-## Hi, I'm Rishi (Shivaanjan) Bhattacharjee
+<p align="center"><img src="/assets/header.svg" alt="Rishi (Shivaanjan) Bhattacharjee, Graduate Data and AI Engineer in London" width="100%"></p>
 
 **Graduate Data & AI Engineer in London.** MSc Financial Technology, Warwick Business School (Distinction).
 
