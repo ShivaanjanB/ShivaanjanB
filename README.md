@@ -82,8 +82,8 @@ flowchart LR
 ### At a glance
 
 <p>
-  <img src="/metrics.languages.svg" alt="Most-used languages" width="49%">
-  <img src="/metrics.lines.svg" alt="Lines of code by project" width="49%">
+  <img src="/metrics.languages.svg" alt="Most-used languages" width="49%" align="top">
+  <img src="/metrics.lines.svg" alt="Lines of code by project" width="49%" align="top">
 </p>
 
 <sub>Infographics refreshed daily with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
